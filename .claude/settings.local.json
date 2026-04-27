@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(mkdir -p /Users/johnson/LLM/ch01)",
+      "Bash(curl -L -o /Users/johnson/LLM/ch01/improving_language_understanding_by_generative_pre-training.pdf \"https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf\")",
+      "WebFetch(domain:llm-stats.com)",
+      "WebFetch(domain:www.datalearner.com)",
+      "WebFetch(domain:www.datacamp.com)",
+      "WebFetch(domain:artificialanalysis.ai)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}
