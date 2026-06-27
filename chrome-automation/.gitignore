@@ -22,3 +22,17 @@ tmp/
 
 # Cookies (sensitive)
 cookies.json
+
+# Node
+node_modules/
+
+# Screenshots & logs
+*.png
+*.log
+
+# Purchase reports & summaries (runtime data)
+purchase_report_*.json
+purchase_summary_*.txt
+
+# Codex review output (regenerated each run)
+codex_review_*.md
